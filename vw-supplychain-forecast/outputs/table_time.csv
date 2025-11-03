@@ -1,0 +1,4 @@
+model,1,5,20
+Elastic Net,0.17,0.11,0.2
+XGBoost,0.81,0.66,0.66
+LightGBM,1.53,1.55,1.55
